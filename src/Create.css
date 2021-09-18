@@ -1,0 +1,27 @@
+.create {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.603);
+  height: 85.7vh;
+}
+.container-form {
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.603);
+  margin-top: 2rem;
+  width: 70vw;
+  color: whitesmoke;
+}
+input,
+select,
+textarea {
+  width: 95%;
+  padding: 0.6rem;
+}
+.btn {
+  display: block;
+  width: 100px;
+  margin-top: 0.3rem;
+  margin-left: auto;
+  margin-right: auto;
+}

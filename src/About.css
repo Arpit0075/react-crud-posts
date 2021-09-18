@@ -1,0 +1,13 @@
+.about {
+  padding: 1rem;
+  background: rgba(0, 0, 0, 0.603);
+  height: 71.2vh;
+  padding-top: 5rem;
+  color: whitesmoke;
+}
+.about-h1 {
+  font-size: 3rem;
+}
+.about-point {
+  font-size: 1.5rem;
+}

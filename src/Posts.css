@@ -1,0 +1,30 @@
+.posts {
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.603);
+}
+.posts-container {
+  padding: 0.5rem;
+  border: 1px solid black;
+  margin: 0.5rem;
+  background-color: rgba(0, 0, 0, 0.712);
+  color: whitesmoke;
+  margin-top: 2rem;
+}
+button {
+  padding: 0.5rem;
+  margin-left: 0.5rem;
+  border-radius: 10px;
+  background-color: #353232;
+  color: whitesmoke;
+}
+button:hover {
+  cursor: pointer;
+}
+.del-confirm-container {
+  color: wheat;
+  background-color: rgba(0, 0, 0, 0.815);
+  width: 150px;
+  text-align: center;
+  margin: auto;
+  border-radius: 12px;
+}
